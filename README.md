@@ -11,7 +11,6 @@ I am also an open-source enthusiast. I learned a lot from the open-source commun
 <br />
 <!-- [![Linkedin Badge](https://img.shields.io/badge/-prajwalborkar-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/prajwal-borkar/)](https://www.linkedin.com/in/prajwal-borkar/) -->
 
-<!-- Web Development - Machine Learning - DevOps -->
 
 **Languages and Tools:**  
 
