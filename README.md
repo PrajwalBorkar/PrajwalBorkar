@@ -28,12 +28,6 @@ I am also an open-source enthusiast. I learned a lot from the open-source commun
   <img src="https://profile-counter.glitch.me/prajwalborkar/count.svg" />
 </p>
 
-<p align="center">
-  <img src="./assets/headers/the-numbers-light.gif#gh-light-mode-only" alt="numbers" width="400">
-  <img src="./assets/headers/the-numbers-dark.gif#gh-dark-mode-only" alt="numbers" width="400">
-  <img src="./assets/cats/stats-light.gif#gh-light-mode-only" alt="glowing-cat" height="230" width="240" />
-  <img src="./assets/cats/stats-dark.gif#gh-dark-mode-only" alt="glowing-cat" height="200" width="200" />
-</p>
 <!--
 <br> 
  
