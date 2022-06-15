@@ -28,7 +28,39 @@ I am also an open-source enthusiast. I learned a lot from the open-source commun
   <img src="https://profile-counter.glitch.me/prajwalborkar/count.svg" />
 </p>
 
+<p align="center">
+  <img src="./assets/headers/the-numbers-light.gif#gh-light-mode-only" alt="numbers" width="400">
+  <img src="./assets/headers/the-numbers-dark.gif#gh-dark-mode-only" alt="numbers" width="400">
+  <img src="./assets/cats/stats-light.gif#gh-light-mode-only" alt="glowing-cat" height="230" width="240" />
+  <img src="./assets/cats/stats-dark.gif#gh-dark-mode-only" alt="glowing-cat" height="200" width="200" />
+</p>
+<!--
+<br> 
+ 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/PrajwalBorkar/github-stats-transparent/cab02d3b4d9de44c4cc058b3d516a093ab46f6bb/generated/overview.svg" alt="visit-counter" height="200">
+  <img src="https://raw.githubusercontent.com/PrajwalBorkar/github-stats-transparent/cab02d3b4d9de44c4cc058b3d516a093ab46f6bb/generated/languages.svg" alt="language-stats" height="200">
+</p>
 
+<br>
+
+<p align="center">
+  <p align="center">
+    <img src="https://github-profile-trophy.vercel.app/?username=RitamChakraborty&no-bg=true&no-frame=true&margin-w=15&column=-1&theme=algolia&title=Commits">
+  </p>
+  <p align="center">
+    <img src ="https://github-profile-trophy.vercel.app/?username=RitamChakraborty&no-bg=true&no-frame=true&margin-w=20&column=-1&theme=onedark&title=MultiLanguage,Repositories">
+  </p>
+  <p align="center">
+    <img src ="https://github-profile-trophy.vercel.app/?username=RitamChakraborty&no-bg=true&no-frame=true&margin-w=25&column=-1&theme=juicyfresh&title=Stars">
+    <img src ="https://github-profile-trophy.vercel.app/?username=RitamChakraborty&no-bg=true&no-frame=true&column=-1&theme=juicyfresh&title=Issues,PullRequest">
+    <img src ="https://github-profile-trophy.vercel.app/?username=RitamChakraborty&no-bg=true&no-frame=true&margin-w=25&column=-1&theme=juicyfresh&title=Followers">
+  </p>
+  <p align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=RitamChakraborty&theme=city-lights&date_format=j%20M%5B%20Y%5D&border=8B8B8B50&background=DD272700&stroke=FF131300&ring=D8FF55&fire=FFD739&currStreakNum=8F71EF&sideNums=C19AF3&currStreakLabel=00BE33&sideLabels=24BB70" alt="GitHub Streak" />
+  </p>
+</p>
+ -->
  <!-- 
 <a href="https://www.adamalston.com/"><img height="137px" src="https://github-readme-stats.vercel.app/api?username=prajwalborkar&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /><!-- wi*quL3fcV <img height="137px"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=prajwalborkar&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /></a> -->
 
