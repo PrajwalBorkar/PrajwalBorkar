@@ -7,7 +7,7 @@ Hi, I'm a passionate self-taught full stack web developer and a software enginee
 
 I am also an open-source enthusiast. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source. <br> <br> 
 
-<a href="https://www.linkedin.com/in/prajwal-borkar/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> [![Gmail Badge](https://img.shields.io/badge/-GMail-c14438?style=social&logo=Gmail&logoColor=red&link=mailto:prajwalborkar5075@gmail.com)](mailto:prajwalborkar5075@gmail.com)
+<a href="https://www.linkedin.com/in/prajwal-borkar/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:prajwalborkar5075@gmail.com)](mailto:prajwalborkar5075@gmail.com)
 <br />
 <!-- [![Linkedin Badge](https://img.shields.io/badge/-prajwalborkar-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/prajwal-borkar/)](https://www.linkedin.com/in/prajwal-borkar/) -->
 
