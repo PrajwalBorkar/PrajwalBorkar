@@ -29,7 +29,6 @@ I am also an open-source enthusiast. I learned a lot from the open-source commun
 </p>
 
 <!--
-
  
 <p align="center">
   <img src="https://raw.githubusercontent.com/PrajwalBorkar/github-stats-transparent/cab02d3b4d9de44c4cc058b3d516a093ab46f6bb/generated/overview.svg" alt="visit-counter" height="200">
