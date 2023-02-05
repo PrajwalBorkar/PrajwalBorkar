@@ -21,8 +21,6 @@ I am also an open-source enthusiast. I learned a lot from the open-source commun
  
 <!--  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prajwalborkar&layout=compact)](https://github.com/anuraghazra/github-readme-stats)  -->
  
- [![Prajwal's github activity graph](https://activity-graph.herokuapp.com/graph?username=PrajwalBorkar&theme=redical)](https://github.com/PrajwalBorkar/github-readme-activity-graph) 
- 
   <p align="center"> 
   Visitors count<br>
   <img src="https://profile-counter.glitch.me/prajwalborkar/count.svg" />
